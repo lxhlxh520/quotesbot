@@ -1,0 +1,6 @@
+{
+    "python.venvPath": "E:/PythonProject/envscrapy",
+    "python.pythonPath": "E:/PythonProject/envscrapy/Scripts/python.exe",
+    "python.formatting.provider": "yapf",
+    "python.formatting.yapfPath": "C:\\Program Files\\Python37\\Scripts\\yapf",
+}
